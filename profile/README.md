@@ -8,16 +8,24 @@ Repositories are organised by project and provide analysis scripts, documentatio
 
 JEMU participates in [speciesID.be](https://speciesid.be/), the Belgian network for species identification services.
 
-## Technical expertise
+## Repositories by technical approach
 
-These collaborative projects develop and apply the following approaches. The repositories provide examples of the methods and resources.
+All research repositories are listed below. Public repositories are linked; private resources are marked **Restricted access**.
 
-| Technical approach | Example repository |
+| Technical approach | Repository |
 | --- | --- |
-| DNA metabarcoding | [Kabota pollen study](https://github.com/molecular-lab-RMCA/Kabota-et-al_pollen-metabarcoding) |
-| Nuclear and mitochondrial phylogenomics | [Esselens African Dacus study](https://github.com/molecular-lab-RMCA/Esselens-et-al.-2026_African-Dacus) |
-| Population genomics and SNP assignment | [JPS assignment workflow](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow) |
-| Population genomics and COI analysis | [Vanbergen et al. (2025) workflow resources](https://github.com/molecular-lab-RMCA/PESTFLY_Insects_2025) |
+| DNA barcoding and reference sequence curation | Restricted access: COI reference curation (PESTFLY) |
+| DNA metabarcoding | [Kabota et al.: pollen metabarcoding (DISPEST)](https://github.com/molecular-lab-RMCA/Kabota_et_al_pollen_metabarcoding_DISPEST) |
+| Nuclear and mitochondrial phylogenomics | [Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP)](https://github.com/molecular-lab-RMCA/Esselens_et_al_2026_African_Dacus_DAFROSTOP) |
+| Ortholog alignment quality control | Restricted access: Syrphidae alignment QC (DISPEST) |
+| Ortholog recovery and alignment | Restricted access: Ortholog alignment workflow (Shared Resources) |
+| Population genomics and COI analysis | [Vanbergen et al. (2025): Bactrocera dorsalis genomic tracing (PESTFLY)](https://github.com/molecular-lab-RMCA/Vanbergen_et_al_2025_Bd_genomic_tracing_PESTFLY) |
+| Population genomics and SNP assignment | [Virgilio et al. (2026): Bactrocera dorsalis genomic assignment (PESTFLY)](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY) |
+| SNP discovery and panel evaluation | Restricted access: Diagnostic SNP development (PESTFLY) |
+| WGS population genomics and COI analysis | Restricted access: Bactrocera zonata genomic assignment (PESTFLY) |
+| WGS population genomics and COI analysis | Restricted access: Dacus frontalis genomic assignment (DAFROSTOP) |
+
+**Abbreviations:** WGS, whole genome sequencing; COI, mitochondrial cytochrome c oxidase subunit I; SNP, single nucleotide polymorphism; QC, quality control.
 
 ## Projects
 
