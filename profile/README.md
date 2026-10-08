@@ -17,7 +17,7 @@ All research repositories are listed below. Public repositories are linked; priv
 | DNA barcoding and reference sequence curation | Bagheri et al. (2026): COI reference curation (PESTFLY) · Restricted access |
 | DNA metabarcoding | [Kabota et al.: pollen metabarcoding (DISPEST)](https://github.com/molecular-lab-RMCA/Kabota_et_al_pollen_metabarcoding_DISPEST) |
 | Nuclear and mitochondrial phylogenomics | [Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP)](https://github.com/molecular-lab-RMCA/Esselens_et_al_2026_African_Dacus_DAFROSTOP) |
-| Ortholog alignment quality control | Virgilio et al. (2026): Syrphidae alignment QC (DISPEST) · Restricted access |
+| Ortholog alignment quality control | Bagheri et al. (2026): Syrphidae alignment QC (DISPEST) · Restricted access |
 | Ortholog recovery and alignment | Esselens et al. (2026): ortholog alignment workflow (Shared Resources) · Restricted access |
 | Population genomics and COI analysis | [Vanbergen et al. (2025): Bactrocera dorsalis genomic tracing (PESTFLY)](https://github.com/molecular-lab-RMCA/Vanbergen_et_al_2025_Bd_genomic_tracing_PESTFLY) |
 | Population genomics and SNP assignment | [Virgilio et al. (2026): Bactrocera dorsalis genomic assignment (PESTFLY)](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY) |
