@@ -15,14 +15,15 @@ All research repositories are listed below. Public repositories are linked; priv
 | Technical approach | Repositories |
 | --- | --- |
 | DNA barcoding and reference curation | Bagheri et al. (2026): COI reference curation (PESTFLY) · Restricted access |
-| DNA metabarcoding | [Kabota et al.: pollen metabarcoding (DISPEST)](https://github.com/molecular-lab-RMCA/Kabota_et_al_pollen_metabarcoding_DISPEST) |
-| Phylogenomics | [Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP)](https://github.com/molecular-lab-RMCA/Esselens_et_al_2026_African_Dacus_DAFROSTOP) |
+| DNA metabarcoding and microbiome analysis | [Kabota et al.: pollen metabarcoding (DISPEST)](https://github.com/molecular-lab-RMCA/Kabota_et_al_pollen_metabarcoding_DISPEST)<br>Leonard et al. (2026): Dacus gut microbiome (DISPEST) · Placeholder · Restricted access |
+| Phylogenomics | Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP) · Restricted access |
 | Ortholog recovery, alignment and quality control | Esselens et al. (2026): ortholog alignment workflow (Shared Resources) · Restricted access<br>Bagheri et al. (2026): Syrphidae alignment QC (DISPEST) · Restricted access |
 | WGS population genomics and SNP analysis | [Vanbergen et al. (2025): Bactrocera dorsalis genomic tracing (PESTFLY)](https://github.com/molecular-lab-RMCA/Vanbergen_et_al_2025_Bd_genomic_tracing_PESTFLY)<br>[Virgilio et al. (2026): Bactrocera dorsalis genomic assignment (PESTFLY)](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY)<br>Bagheri et al. (2026): diagnostic SNP development (PESTFLY) · Restricted access<br>Bagheri et al. (2026): Bactrocera zonata genomic assignment (PESTFLY) · Restricted access<br>Virgilio et al. (2026): Dacus frontalis genomic assignment (DAFROSTOP) · Restricted access |
-| Microbiome analysis | Leonard et al. (2026): Dacus gut microbiome (DISPEST) · Placeholder · Restricted access |
-| Species distribution modelling | Bota et al. (2026): Z. cucurbitae distribution modelling (DISPEST) · Placeholder · Restricted access<br>Ruboha et al. (2026): C. cosyra distribution modelling (DISPEST) · Placeholder · Restricted access<br>Tairo et al. (2026): C. rosa and C. fasciventris distribution modelling (DISPEST) · Placeholder · Restricted access<br>Leonard et al. (2026): Dacus distribution modelling (DISPEST) · Placeholder · Restricted access |
+| Population genomics and species distribution modelling | Bota et al. (2026): Z. cucurbitae distribution modelling (DISPEST) · Placeholder · Restricted access<br>Ruboha et al. (2026): C. cosyra distribution modelling (DISPEST) · Placeholder · Restricted access<br>Tairo et al. (2026): C. rosa and C. fasciventris distribution modelling (DISPEST) · Placeholder · Restricted access<br>Leonard et al. (2026): Dacus distribution modelling (DISPEST) · Placeholder · Restricted access |
 
-**Abbreviations:** WGS, whole genome sequencing; COI, mitochondrial cytochrome c oxidase subunit I; SNP, single nucleotide polymorphism; QC, quality control.
+The planned modelling studies relate species distributions to population genomic structure in the target species.
+
+**Abbreviations:** WGS, whole genome sequencing; COI, mitochondrial cytochrome c oxidase subunit I gene; SNP, single nucleotide polymorphism; QC, quality control.
 
 ## Projects
 
