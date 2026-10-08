@@ -1,6 +1,8 @@
 # Research Projects | JEMU at RMCA
 
-This space brings together resources for selected collaborative research projects associated with the [Joint Experimental Molecular Unit (JEMU)](https://www.jemu.be/) at the Royal Museum for Central Africa (RMCA), alongside related research activities.
+Curated by Massimiliano Virgilio.
+
+This section brings together resources for selected collaborative research projects associated with the [Joint Experimental Molecular Unit (JEMU)](https://www.jemu.be/) at the Royal Museum for Central Africa (RMCA), alongside related research activities.
 
 The projects involve researchers and students at RMCA and partner institutions, with a particular emphasis on collaboration with African partners.
 
