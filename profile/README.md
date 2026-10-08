@@ -10,12 +10,12 @@ JEMU participates in [speciesID.be](https://speciesid.be/), the Belgian network 
 
 ## Projects
 
-| Project | Focus |
-| --- | --- |
-| [Shared Resources and Publications](https://github.com/molecular-lab-RMCA/General) | Shared tools, research resources and other publications |
-| [PESTFLY](https://github.com/molecular-lab-RMCA/PESTFLY) | Surveillance and genomic assignment of the oriental fruit fly |
-| [DAFROSTOP](https://github.com/molecular-lab-RMCA/DAFROSTOP) | Detection and risk assessment of *Dacus frontalis* |
-| [TEPHRIFADE_2](https://github.com/molecular-lab-RMCA/TEPHRIFADE_2) | Detection methods for quarantine fruit flies |
-| [DISPEST](https://github.com/molecular-lab-RMCA/DISPEST) | Fruit fly dispersal and pest management, including DISPEST_2 |
+| Project | Partners and collaborators | Focus |
+| --- | --- | --- |
+| [Shared Resources and Publications](https://github.com/molecular-lab-RMCA/General) | Varies by study | Shared tools, research resources and other publications |
+| [PESTFLY](https://github.com/molecular-lab-RMCA/PESTFLY) | RMCA, ILVO, CRA-W | Surveillance and genomic assignment of the oriental fruit fly |
+| [DAFROSTOP](https://github.com/molecular-lab-RMCA/DAFROSTOP) | RMCA, ILVO | Detection and risk assessment of *Dacus frontalis* |
+| [TEPHRIFADE_2](https://github.com/molecular-lab-RMCA/TEPHRIFADE_2) | RMCA, ILVO | Detection methods for quarantine fruit flies |
+| [DISPEST](https://github.com/molecular-lab-RMCA/DISPEST) | RMCA, EMU, SUA, Stellenbosch University, CRI | Fruit fly dispersal and pest management, including DISPEST_2 |
 
 Each project page links to its public repositories. Individual repositories provide methods, citation guidance, licences, funding acknowledgements and data access conditions.
