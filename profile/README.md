@@ -8,6 +8,17 @@ Repositories are organised by project and provide analysis scripts, documentatio
 
 JEMU participates in [speciesID.be](https://speciesid.be/), the Belgian network for species identification services.
 
+## Technical expertise
+
+These collaborative projects develop and apply the following approaches. The repositories provide examples of the methods and resources.
+
+| Technical approach | Example repository |
+| --- | --- |
+| DNA metabarcoding | [Kabota pollen study](https://github.com/molecular-lab-RMCA/Kabota-et-al_pollen-metabarcoding) |
+| Nuclear and mitochondrial phylogenomics | [Esselens African Dacus study](https://github.com/molecular-lab-RMCA/Esselens-et-al.-2026_African-Dacus) |
+| Population genomics and SNP assignment | [JPS assignment workflow](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow) |
+| Population genomics and COI analysis | [Vanbergen et al. (2025) workflow resources](https://github.com/molecular-lab-RMCA/PESTFLY_Insects_2025) |
+
 ## Projects
 
 | Project | Partners and collaborators | Focus |
