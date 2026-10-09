@@ -1,7 +1,5 @@
 # Research Projects | JEMU at RMCA
 
-Curated by Massimiliano Virgilio.
-
 This section brings together resources for selected collaborative research projects associated with the [Joint Experimental Molecular Unit (JEMU)](https://www.jemu.be/) at the Royal Museum for Central Africa (RMCA), alongside related research activities.
 
 The projects involve researchers and students at RMCA and partner institutions, with a particular emphasis on collaboration with African partners.
@@ -31,7 +29,7 @@ The planned modelling studies relate species distributions to population genomic
 
 | Project | Partners and collaborators | Focus |
 | --- | --- | --- |
-| [Shared Resources and Publications](https://github.com/molecular-lab-RMCA/General) | Varies by study | Shared tools, research resources and other publications |
+| [Shared Resources and Publications](https://github.com/molecular-lab-RMCA/General) | | Shared tools, research resources and other publications |
 | [PESTFLY](https://github.com/molecular-lab-RMCA/PESTFLY) | RMCA, ILVO, CRA-W | Surveillance and genomic assignment of the oriental fruit fly |
 | [DAFROSTOP](https://github.com/molecular-lab-RMCA/DAFROSTOP) | RMCA, ILVO | Detection and risk assessment of *Dacus frontalis* |
 | [TEPHRIFADE_2](https://github.com/molecular-lab-RMCA/TEPHRIFADE_2) | RMCA, ILVO | Detection methods for quarantine fruit flies |
