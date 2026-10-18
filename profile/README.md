@@ -12,7 +12,7 @@ JEMU participates in [speciesID.be](https://speciesid.be/), the Belgian network 
 
 Alongside project-specific research repositories, we maintain shared infrastructure linking museum collections with molecular and genomic data.
 
-[**RMCA Tephritidae: From Collections to Genomics**](https://github.com/molecular-lab-RMCA/RMCA_Tephritidae_collection_genomics_overview) provides a public overview of the information system connecting curated Tephritidae vouchers, laboratory provenance, genomic files, reproducible analyses and downstream institutional publication. The operational repository remains restricted.
+[**Virgilio: RMCA Tephritidae, From Collections to Genomics**](https://github.com/molecular-lab-RMCA/Virgilio_RMCA_Tephritidae_collection_genomics_overview) provides a public overview of the information system connecting curated Tephritidae vouchers, laboratory provenance, genomic files, reproducible analyses and downstream institutional publication. The operational repository remains restricted.
 
 ## Repositories by technical approach
 
