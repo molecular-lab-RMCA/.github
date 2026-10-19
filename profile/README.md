@@ -40,7 +40,7 @@ The planned modelling studies relate species distributions to population genomic
 | [DAFROSTOP](https://github.com/molecular-lab-RMCA/DAFROSTOP) | RMCA, ILVO | Detection and risk assessment of *Dacus frontalis* |
 | [TEPHRIFADE_2](https://github.com/molecular-lab-RMCA/TEPHRIFADE_2) | RMCA, ILVO | Detection methods for quarantine fruit flies |
 | [DISPEST](https://github.com/molecular-lab-RMCA/DISPEST) | RMCA, EMU, SUA, Stellenbosch University, CRI | Fruit fly dispersal and pest management, including DISPEST_2 |
-| [REACT](https://cordis.europa.eu/project/id/101059523) (Horizon Europe, 101059523) | RMCA and REACT consortium partners | WGS population genomics and geographic-affinity analyses of *B. dorsalis* (La Réunion) and *B. zonata* (Tel Aviv); private research repository |
+| [REACT](https://github.com/molecular-lab-RMCA/REACT) (Horizon Europe, 101059523) | RMCA, CIRAD, ARO, inSilico-IPM | WGS population genomics and geographic-affinity analyses of *B. dorsalis* (La Réunion) and *B. zonata* (Tel Aviv); private research repository |
 
 **Partner legend**
 
