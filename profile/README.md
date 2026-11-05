@@ -22,7 +22,7 @@ All research repositories are listed below. Public repositories are linked; priv
 | --- | --- |
 | DNA barcoding and reference curation | Bagheri et al. (2026): COI reference curation (PESTFLY) · Restricted access |
 | DNA metabarcoding and microbiome analysis | [Kabota et al.: pollen metabarcoding (DISPEST)](https://github.com/molecular-lab-RMCA/Kabota_et_al_pollen_metabarcoding_DISPEST)<br>Leonard et al. (2026): Dacus gut microbiome (DISPEST) · Placeholder · Restricted access |
-| Phylogenomics | Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP) · Restricted access<br>Bagheri et al. (2026): Graptomyza nuclear and mitochondrial phylogenomics (DISPEST) · Restricted access |
+| Phylogenomics | Esselens et al. (2026): African Dacus phylogenomics (DAFROSTOP) · Restricted access<br>Bagheri et al. (2026): Graptomyza nuclear and mitochondrial phylogenomics (JEMU Support) · Restricted access |
 | Ortholog recovery, alignment and quality control | Esselens et al. (2026): ortholog alignment workflow (Shared Resources) · Restricted access<br>Bagheri et al. (2026): Syrphidae alignment QC (DISPEST) · Restricted access |
 | WGS population genomics and SNP analysis | [Vanbergen et al. (2025): Bactrocera dorsalis genomic tracing (PESTFLY)](https://github.com/molecular-lab-RMCA/Vanbergen_et_al_2025_Bd_genomic_tracing_PESTFLY)<br>[Virgilio et al. (2026): Bactrocera dorsalis genomic assignment (PESTFLY)](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY)<br>Bagheri et al. (2026): diagnostic SNP development (PESTFLY) · Restricted access<br>Bagheri et al. (2026): Bactrocera zonata genomic assignment (PESTFLY) · Restricted access<br>Virgilio et al. (2026): Dacus frontalis genomic assignment (DAFROSTOP) · Restricted access<br>Virgilio et al. (2026): B. dorsalis and B. zonata genomic affinity (REACT) · Restricted access |
 | Population genomics and species distribution modelling | Bota et al. (2026): Z. cucurbitae distribution modelling (DISPEST) · Placeholder · Restricted access<br>Ruboha et al. (2026): C. cosyra distribution modelling (DISPEST) · Placeholder · Restricted access<br>Tairo et al. (2026): C. rosa and C. fasciventris distribution modelling (DISPEST) · Placeholder · Restricted access<br>Leonard et al. (2026): Dacus distribution modelling (DISPEST) · Placeholder · Restricted access |
@@ -36,6 +36,7 @@ The planned modelling studies relate species distributions to population genomic
 | Project | Partners and collaborators | Focus |
 | --- | --- | --- |
 | [Shared Resources and Publications](https://github.com/molecular-lab-RMCA/General) | | Shared tools, research resources and other publications |
+| JEMU Support | RMCA/JEMU, including support for Kurt Jordaens' research | Collaborative nuclear and mitochondrial phylogenomics (*Graptomyza*); private research repository, restricted access |
 | [PESTFLY](https://github.com/molecular-lab-RMCA/PESTFLY) | RMCA, ILVO, CRA-W | Surveillance and genomic assignment of the oriental fruit fly |
 | [DAFROSTOP](https://github.com/molecular-lab-RMCA/DAFROSTOP) | RMCA, ILVO | Detection and risk assessment of *Dacus frontalis* |
 | [TEPHRIFADE_2](https://github.com/molecular-lab-RMCA/TEPHRIFADE_2) | RMCA, ILVO | Detection methods for quarantine fruit flies |
